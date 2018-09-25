@@ -1052,7 +1052,7 @@ Click on the magnifying glass icon to view page detail, showing page screenshot 
 <img src="https://www.apify.com/ext/sdk_assets/puppeteer-live-view-detail.png" width="600p">
 
 For more information, read the <a href="https://kb.apify.com/actor/debugging-your-actors-with-live-view" target="_blank">Debugging your actors with Live View</a>
-article in Apify Knowlege Base.
+article in the Apify Knowlege Base.
 
 ## Support
 
